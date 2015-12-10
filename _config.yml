@@ -1,4 +1,4 @@
 auto: true
 server: true
 markdown: kramdown
-base_path: "/akky/"
+base_path: "http://nilnabi.github.io/akky/"
